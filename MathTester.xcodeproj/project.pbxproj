@@ -1,0 +1,365 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F874D9AF1595A9A400C17BC2 /* wrong_kidding_me.png in Resources */ = {isa = PBXBuildFile; fileRef = F874D9AE1595A9A400C17BC2 /* wrong_kidding_me.png */; };
+		F874D9D215960A7800C17BC2 /* NSArray+RandomObjectGetter.m in Sources */ = {isa = PBXBuildFile; fileRef = F874D9D115960A7800C17BC2 /* NSArray+RandomObjectGetter.m */; };
+		F874D9D415960BFB00C17BC2 /* good_awesome.png in Resources */ = {isa = PBXBuildFile; fileRef = F874D9D315960BFB00C17BC2 /* good_awesome.png */; };
+		F874D9DB15960CB900C17BC2 /* SettingsController.m in Sources */ = {isa = PBXBuildFile; fileRef = F874D9D915960CB900C17BC2 /* SettingsController.m */; };
+		F874D9DC15960CB900C17BC2 /* SettingsController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F874D9DA15960CB900C17BC2 /* SettingsController.xib */; };
+		F89D8E93159502D700CE0448 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = F89D8E92159502D700CE0448 /* MainWindow.xib */; };
+		F89E0EFE1596445F009B7617 /* Expression.m in Sources */ = {isa = PBXBuildFile; fileRef = F89E0EFD1596445F009B7617 /* Expression.m */; };
+		F8A82A791594D56A008A5F4F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8A82A781594D56A008A5F4F /* UIKit.framework */; };
+		F8A82A7B1594D56A008A5F4F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8A82A7A1594D56A008A5F4F /* Foundation.framework */; };
+		F8A82A7D1594D56A008A5F4F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8A82A7C1594D56A008A5F4F /* CoreGraphics.framework */; };
+		F8A82A851594D56A008A5F4F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F8A82A841594D56A008A5F4F /* main.m */; };
+		F8A82A891594D56A008A5F4F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F8A82A881594D56A008A5F4F /* AppDelegate.m */; };
+		F8DD583215982EE100E231A0 /* AlertPair.m in Sources */ = {isa = PBXBuildFile; fileRef = F8DD582F15982EB100E231A0 /* AlertPair.m */; };
+		F8DD583315982EE100E231A0 /* Equation.m in Sources */ = {isa = PBXBuildFile; fileRef = F8DD583115982EB100E231A0 /* Equation.m */; };
+		F8DD583415982EE100E231A0 /* MainCtrl.m in Sources */ = {isa = PBXBuildFile; fileRef = F8DD582C15982EA500E231A0 /* MainCtrl.m */; };
+		F8F15240159706A5003F093B /* NSString+FormatExpression.m in Sources */ = {isa = PBXBuildFile; fileRef = F8F1523F159706A5003F093B /* NSString+FormatExpression.m */; };
+		F8F152431597114C003F093B /* wrong_i_know_that_feel.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F152421597114C003F093B /* wrong_i_know_that_feel.png */; };
+		F8F15245159711E1003F093B /* wrong_oh_god_why.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F15244159711E1003F093B /* wrong_oh_god_why.png */; };
+		F8F152471597126C003F093B /* good_this_time.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F152461597126C003F093B /* good_this_time.png */; };
+		F8F1524915971533003F093B /* good_oh_stop_it.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F1524815971533003F093B /* good_oh_stop_it.png */; };
+		F8F1524B1597182E003F093B /* icon-72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F1524A1597182E003F093B /* icon-72x72.png */; };
+		F8F1524D15971831003F093B /* icon-144x144.png in Resources */ = {isa = PBXBuildFile; fileRef = F8F1524C15971831003F093B /* icon-144x144.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F874D9AE1595A9A400C17BC2 /* wrong_kidding_me.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wrong_kidding_me.png; path = MathTester/Resources/wrong_kidding_me.png; sourceTree = "<group>"; };
+		F874D9D015960A7800C17BC2 /* NSArray+RandomObjectGetter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray+RandomObjectGetter.h"; path = "MathTester/NSArray+RandomObjectGetter.h"; sourceTree = "<group>"; };
+		F874D9D115960A7800C17BC2 /* NSArray+RandomObjectGetter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray+RandomObjectGetter.m"; path = "MathTester/NSArray+RandomObjectGetter.m"; sourceTree = "<group>"; };
+		F874D9D315960BFB00C17BC2 /* good_awesome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = good_awesome.png; path = MathTester/Resources/good_awesome.png; sourceTree = "<group>"; };
+		F874D9D815960CB900C17BC2 /* SettingsController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SettingsController.h; path = MathTester/SettingsController.h; sourceTree = "<group>"; };
+		F874D9D915960CB900C17BC2 /* SettingsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SettingsController.m; path = MathTester/SettingsController.m; sourceTree = "<group>"; };
+		F874D9DA15960CB900C17BC2 /* SettingsController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SettingsController.xib; path = MathTester/SettingsController.xib; sourceTree = "<group>"; };
+		F89D8E92159502D700CE0448 /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		F89E0EFC1596445F009B7617 /* Expression.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Expression.h; path = MathTester/Expression.h; sourceTree = "<group>"; };
+		F89E0EFD1596445F009B7617 /* Expression.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Expression.m; path = MathTester/Expression.m; sourceTree = "<group>"; };
+		F8A82A741594D56A008A5F4F /* MathTester.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MathTester.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8A82A781594D56A008A5F4F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F8A82A7A1594D56A008A5F4F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F8A82A7C1594D56A008A5F4F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F8A82A801594D56A008A5F4F /* MathTester-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MathTester-Info.plist"; sourceTree = "<group>"; };
+		F8A82A841594D56A008A5F4F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F8A82A861594D56A008A5F4F /* MathTester-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MathTester-Prefix.pch"; sourceTree = "<group>"; };
+		F8A82A871594D56A008A5F4F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		F8A82A881594D56A008A5F4F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F8DD582B15982EA500E231A0 /* MainCtrl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = MainCtrl.h; path = MathTester/MainCtrl.h; sourceTree = "<group>"; };
+		F8DD582C15982EA500E231A0 /* MainCtrl.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = MainCtrl.m; path = MathTester/MainCtrl.m; sourceTree = "<group>"; };
+		F8DD582D15982EA500E231A0 /* MainCtrl.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainCtrl.xib; path = MathTester/MainCtrl.xib; sourceTree = "<group>"; };
+		F8DD582E15982EB100E231A0 /* AlertPair.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AlertPair.h; path = MathTester/AlertPair.h; sourceTree = "<group>"; };
+		F8DD582F15982EB100E231A0 /* AlertPair.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AlertPair.m; path = MathTester/AlertPair.m; sourceTree = "<group>"; };
+		F8DD583015982EB100E231A0 /* Equation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Equation.h; path = MathTester/Equation.h; sourceTree = "<group>"; };
+		F8DD583115982EB100E231A0 /* Equation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = Equation.m; path = MathTester/Equation.m; sourceTree = "<group>"; };
+		F8F1523E159706A5003F093B /* NSString+FormatExpression.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+FormatExpression.h"; path = "MathTester/NSString+FormatExpression.h"; sourceTree = "<group>"; };
+		F8F1523F159706A5003F093B /* NSString+FormatExpression.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSString+FormatExpression.m"; path = "MathTester/NSString+FormatExpression.m"; sourceTree = "<group>"; };
+		F8F152421597114C003F093B /* wrong_i_know_that_feel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wrong_i_know_that_feel.png; path = MathTester/Resources/wrong_i_know_that_feel.png; sourceTree = "<group>"; };
+		F8F15244159711E1003F093B /* wrong_oh_god_why.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wrong_oh_god_why.png; path = MathTester/Resources/wrong_oh_god_why.png; sourceTree = "<group>"; };
+		F8F152461597126C003F093B /* good_this_time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = good_this_time.png; path = MathTester/Resources/good_this_time.png; sourceTree = "<group>"; };
+		F8F1524815971533003F093B /* good_oh_stop_it.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = good_oh_stop_it.png; path = MathTester/Resources/good_oh_stop_it.png; sourceTree = "<group>"; };
+		F8F1524A1597182E003F093B /* icon-72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72x72.png"; sourceTree = "<group>"; };
+		F8F1524C15971831003F093B /* icon-144x144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-144x144.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F8A82A711594D56A008A5F4F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F8A82A791594D56A008A5F4F /* UIKit.framework in Frameworks */,
+				F8A82A7B1594D56A008A5F4F /* Foundation.framework in Frameworks */,
+				F8A82A7D1594D56A008A5F4F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F874D9AB1595A89C00C17BC2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F8F152461597126C003F093B /* good_this_time.png */,
+				F8F15244159711E1003F093B /* wrong_oh_god_why.png */,
+				F8F152421597114C003F093B /* wrong_i_know_that_feel.png */,
+				F874D9D315960BFB00C17BC2 /* good_awesome.png */,
+				F874D9AE1595A9A400C17BC2 /* wrong_kidding_me.png */,
+				F8F1524815971533003F093B /* good_oh_stop_it.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		F874D9C71595B72E00C17BC2 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				F8DD582B15982EA500E231A0 /* MainCtrl.h */,
+				F8DD582C15982EA500E231A0 /* MainCtrl.m */,
+				F8DD582D15982EA500E231A0 /* MainCtrl.xib */,
+				F874D9D815960CB900C17BC2 /* SettingsController.h */,
+				F874D9D915960CB900C17BC2 /* SettingsController.m */,
+				F874D9DA15960CB900C17BC2 /* SettingsController.xib */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		F874D9CC1595B76300C17BC2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F8DD582E15982EB100E231A0 /* AlertPair.h */,
+				F8DD582F15982EB100E231A0 /* AlertPair.m */,
+				F8DD583015982EB100E231A0 /* Equation.h */,
+				F8DD583115982EB100E231A0 /* Equation.m */,
+				F874D9D015960A7800C17BC2 /* NSArray+RandomObjectGetter.h */,
+				F874D9D115960A7800C17BC2 /* NSArray+RandomObjectGetter.m */,
+				F89E0EFC1596445F009B7617 /* Expression.h */,
+				F89E0EFD1596445F009B7617 /* Expression.m */,
+				F8F1523E159706A5003F093B /* NSString+FormatExpression.h */,
+				F8F1523F159706A5003F093B /* NSString+FormatExpression.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		F8A82A691594D56A008A5F4F = {
+			isa = PBXGroup;
+			children = (
+				F8F1524C15971831003F093B /* icon-144x144.png */,
+				F8F1524A1597182E003F093B /* icon-72x72.png */,
+				F874D9CC1595B76300C17BC2 /* Model */,
+				F874D9C71595B72E00C17BC2 /* Controllers */,
+				F874D9AB1595A89C00C17BC2 /* Resources */,
+				F8A82A7E1594D56A008A5F4F /* MathTester */,
+				F8A82A771594D56A008A5F4F /* Frameworks */,
+				F8A82A751594D56A008A5F4F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F8A82A751594D56A008A5F4F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F8A82A741594D56A008A5F4F /* MathTester.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F8A82A771594D56A008A5F4F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F8A82A781594D56A008A5F4F /* UIKit.framework */,
+				F8A82A7A1594D56A008A5F4F /* Foundation.framework */,
+				F8A82A7C1594D56A008A5F4F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F8A82A7E1594D56A008A5F4F /* MathTester */ = {
+			isa = PBXGroup;
+			children = (
+				F8A82A871594D56A008A5F4F /* AppDelegate.h */,
+				F8A82A881594D56A008A5F4F /* AppDelegate.m */,
+				F8A82A7F1594D56A008A5F4F /* Supporting Files */,
+				F89D8E92159502D700CE0448 /* MainWindow.xib */,
+			);
+			path = MathTester;
+			sourceTree = "<group>";
+		};
+		F8A82A7F1594D56A008A5F4F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F8A82A801594D56A008A5F4F /* MathTester-Info.plist */,
+				F8A82A841594D56A008A5F4F /* main.m */,
+				F8A82A861594D56A008A5F4F /* MathTester-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F8A82A731594D56A008A5F4F /* MathTester */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F8A82A8C1594D56A008A5F4F /* Build configuration list for PBXNativeTarget "MathTester" */;
+			buildPhases = (
+				F8A82A701594D56A008A5F4F /* Sources */,
+				F8A82A711594D56A008A5F4F /* Frameworks */,
+				F8A82A721594D56A008A5F4F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MathTester;
+			productName = MathTester;
+			productReference = F8A82A741594D56A008A5F4F /* MathTester.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F8A82A6B1594D56A008A5F4F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = F8A82A6E1594D56A008A5F4F /* Build configuration list for PBXProject "MathTester" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F8A82A691594D56A008A5F4F;
+			productRefGroup = F8A82A751594D56A008A5F4F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F8A82A731594D56A008A5F4F /* MathTester */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F8A82A721594D56A008A5F4F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F89D8E93159502D700CE0448 /* MainWindow.xib in Resources */,
+				F874D9AF1595A9A400C17BC2 /* wrong_kidding_me.png in Resources */,
+				F874D9D415960BFB00C17BC2 /* good_awesome.png in Resources */,
+				F874D9DC15960CB900C17BC2 /* SettingsController.xib in Resources */,
+				F8F152431597114C003F093B /* wrong_i_know_that_feel.png in Resources */,
+				F8F15245159711E1003F093B /* wrong_oh_god_why.png in Resources */,
+				F8F152471597126C003F093B /* good_this_time.png in Resources */,
+				F8F1524915971533003F093B /* good_oh_stop_it.png in Resources */,
+				F8F1524B1597182E003F093B /* icon-72x72.png in Resources */,
+				F8F1524D15971831003F093B /* icon-144x144.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F8A82A701594D56A008A5F4F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F8DD583215982EE100E231A0 /* AlertPair.m in Sources */,
+				F8DD583315982EE100E231A0 /* Equation.m in Sources */,
+				F8DD583415982EE100E231A0 /* MainCtrl.m in Sources */,
+				F8A82A851594D56A008A5F4F /* main.m in Sources */,
+				F8A82A891594D56A008A5F4F /* AppDelegate.m in Sources */,
+				F874D9D215960A7800C17BC2 /* NSArray+RandomObjectGetter.m in Sources */,
+				F874D9DB15960CB900C17BC2 /* SettingsController.m in Sources */,
+				F89E0EFE1596445F009B7617 /* Expression.m in Sources */,
+				F8F15240159706A5003F093B /* NSString+FormatExpression.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F8A82A8A1594D56A008A5F4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		F8A82A8B1594D56A008A5F4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F8A82A8D1594D56A008A5F4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Maxim Dobryakov";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MathTester/MathTester-Prefix.pch";
+				INFOPLIST_FILE = "MathTester/MathTester-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "E183BC0E-19EC-4297-BAE3-BB8466B05445";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F8A82A8E1594D56A008A5F4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Maxim Dobryakov";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MathTester/MathTester-Prefix.pch";
+				INFOPLIST_FILE = "MathTester/MathTester-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "E183BC0E-19EC-4297-BAE3-BB8466B05445";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F8A82A6E1594D56A008A5F4F /* Build configuration list for PBXProject "MathTester" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F8A82A8A1594D56A008A5F4F /* Debug */,
+				F8A82A8B1594D56A008A5F4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F8A82A8C1594D56A008A5F4F /* Build configuration list for PBXNativeTarget "MathTester" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F8A82A8D1594D56A008A5F4F /* Debug */,
+				F8A82A8E1594D56A008A5F4F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F8A82A6B1594D56A008A5F4F /* Project object */;
+}
